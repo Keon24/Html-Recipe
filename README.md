@@ -1,2 +1,4 @@
 # odin-recipe1
-Project Recipes
+
+The website consist of a main index page which hav links to a few recipes.
+Only html and a few of css.
